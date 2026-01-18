@@ -29,7 +29,7 @@
 ---
 
 ### 📫 How to reach me
-- 💬 Discord : `ludwig#0000` *(à modifier si besoin)*
+- 💬 Discord : `lyo.tv`
 - 🌐 GitHub : [github.com/ludwig72144](https://github.com/ludwig72144)
 
 ---
