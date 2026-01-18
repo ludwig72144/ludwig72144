@@ -6,7 +6,7 @@
 ---
 
 ### 👀 Interests
-- Développement **Web** (PHP, JavaScript, UI/UX)
+- Développement **Web** (PHP, JavaScript, JSX, HTML, CSS)
 - **Game Development** (Roblox, FiveM, Garry’s Mod)
 - **Bots Discord** & automatisation
 - Hébergement, serveurs & infrastructure
